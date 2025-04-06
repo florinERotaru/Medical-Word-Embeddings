@@ -34,7 +34,7 @@
     **Table 1:** Accuracy, Precision, Recall, and F1-Score on the human/veterinary medicine classification task with an **RBF** Kernel SVM
 
 
-    2. SVM for human status detection introduced by [this article](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2274873/).
+    2. SVM for human status SMOKER detection introduced by [this article](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2274873/).
 
     | **Metric**      | **`WS2-NEG4`** | **`WS2.5-NEG7`** | **`GloVe-6B-100D`** | **`word2vec-100B-300D`** |
     |-----------------|----------------|------------------|---------------------|-------------------------|
